@@ -99,7 +99,7 @@ if  DATABASES_URL:
 
 # Password validation
 # https://docs.djangoproject.com/en/5.1/ref/settings/#auth-password-validators
-AUTH_USER_MODEL = "filme.Usuario"  # Esse é o nosso modelo dentro do nosso app, no caso a nossa classe do nosso modelss 
+AUTH_USER_MODEL = "filme.Usuario"  # Esse é o nosso modelo dentro do nosso app, no caso a nossa classe do nosso modelsss 
 
 AUTH_PASSWORD_VALIDATORS = [ # Validações de senha para criação de senas do usuários
     {
